@@ -1,6 +1,7 @@
 
-# myrepo
-test for Rstudio and GitHub
+## Repo for testing binder
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/arunmarria/myrepo/master)
 
-Made changes from R studio 
+.. image:: https://mybinder.org/badge_logo.svg
+ :target: https://mybinder.org/v2/gh/arunmarria/myrepo/master
